@@ -1,2 +1,3 @@
 primul fisier
 Aceasta este o modificare temporară pentru stash
+Modificare pentru non-fast-forward merge
