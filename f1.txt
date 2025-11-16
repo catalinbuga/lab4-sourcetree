@@ -1,1 +1,2 @@
 primul fisier
+Aceasta este o modificare temporară pentru stash
