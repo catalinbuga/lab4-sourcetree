@@ -1,2 +1,3 @@
 primul fisier
 Aceasta este o modificare temporară pentru stash
+Schimbare din feature1 pentru test 3-way merge
