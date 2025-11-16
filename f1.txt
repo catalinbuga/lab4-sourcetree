@@ -1,3 +1,4 @@
 primul fisier
 Aceasta este o modificare temporară pentru stash
 Modificare pentru non-fast-forward merge
+Schimbare din feature1 pentru test 3-way merge
